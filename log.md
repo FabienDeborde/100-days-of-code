@@ -14,5 +14,15 @@
 5. [Wherefore art thou](https://www.freecodecamp.com/challenges/wherefore-art-thou)
 
 
+### Day 1: January 7, Saturday
+**Today's Progress**: Started the day by some reading (*JavaScript: The Good Parts* by *Douglas Crockford*). Also did 2  [Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) challenges and stopped on the third (Fibonacci numbers...). 
+
+**Thoughts**: Today I felt that I could use some JavaScript but it didn't mean I could understand it. Some concepts are really hard to grasp. The hardest part may be that sometimes I feel like I get it...but in fact I don't...
+
+**Link(s) to work**
+1. [Convert HTML Entities](https://www.freecodecamp.com/challenges/convert-html-entities)
+2. [Spinal Tap Case](https://www.freecodecamp.com/challenges/spinal-tap-case)
+
+
 
 
