@@ -24,5 +24,13 @@
 2. [Spinal Tap Case](https://www.freecodecamp.com/challenges/spinal-tap-case)
 
 
+### Day 2: January 8, Sunday
+**Today's Progress**: Tweaked a bit more my server, learned how to add a monitoring system and how to hide it behind Nginx. I decided to publish some of my notes about managing a Linux server. After that I went back to the [Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) challenges. Broke my head on another mathematical challenge (Prime numbers...) so I deciced to try some other one.
+
+**Thoughts**: I really am not good with mathematiques! Everytime i feel like I get it, I don't... Hope I'll have enought ime tomorrow to clear my head and give another go to these challenges.
+
+**Link(s) to work**
+1. [Linux Memos](https://github.com/FabienDeborde/linux-server-memos)
+2. [Finders Keepers](https://www.freecodecamp.com/challenges/finders-keepers)
 
 
