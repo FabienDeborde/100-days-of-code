@@ -33,4 +33,13 @@
 1. [Linux Memos](https://github.com/FabienDeborde/linux-server-memos)
 2. [Finders Keepers](https://www.freecodecamp.com/challenges/finders-keepers)
 
+### Day 3: January 9, Monday
+**Today's Progress**: Spent a very long day working on the 'Coming Soon' page of the company I'm starting with my wife. It made me use some scripts I built a few months ago (timer, language switcher, form sending via AJAX). I found some energy left to finish an [Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) challenge. I tried another one but my brain wouldn't follow. I'll try again tomorrow!
+
+**Thoughts**: I really loved touching old scripts I made a while ago. I wish I could stay concentrated for more than 14h but I guess it makes me feel more human...
+
+**Link(s) to work**
+1. [Coming Soon Page](https://www.creaweb.solutions)
+2. [Everything Be True](https://www.freecodecamp.com/challenges/everything-be-true)
+
 
