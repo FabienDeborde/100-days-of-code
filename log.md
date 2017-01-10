@@ -43,3 +43,13 @@
 2. [Everything Be True](https://www.freecodecamp.com/challenges/everything-be-true)
 
 
+### Day 4: January 10, Tuesday
+**Today's Progress**: Today I learned a bit more about SEO and also server HTTP headers. I found the time to complete 3 [Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) challenges. 
+
+**Thoughts**: I was wondering today how to conciliate new technologies with our actual browsers. Some design I made was "perfect" on Chrome/Firefox/Opera but looked terrible on Safari... I should probably use more css frameworks but the flexbox model is so simple and so efficient I don't understand why it is always messed up on IE and Safari and really wonder how I should get around this problem. To finish on a good note, only 4 intermediate challenges left! (but 3 are maths, and another is...closure! I think it's THE concept i might be able to use sometimes but can't get myself to explain it and fully understand it).
+
+**Link(s) to work**
+1. [Binary Agents](https://www.freecodecamp.com/challenges/binary-agents)
+2. [Steamroller](https://www.freecodecamp.com/challenges/steamroller)
+3. [Drop it](https://www.freecodecamp.com/challenges/drop-it)
+
