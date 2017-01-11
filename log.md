@@ -53,3 +53,15 @@
 2. [Steamroller](https://www.freecodecamp.com/challenges/steamroller)
 3. [Drop it](https://www.freecodecamp.com/challenges/drop-it)
 
+### Day 5: January 11, Wednesday
+**Today's Progress**: Today I learned more about Nginx and server config (most of it was security and SEO related). I also took some time to finish the 3 [Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) challenges that were harrassing my brain for a while. 
+
+**Thoughts**: I feel more and more attracted to logical programming (opposed to the design programming, not sure if I'm using the proper terms here... I mean I like more and more using Javascript or manipulating server config files, while I don't feel as much enthusiasm when I use HTML/Jade and CSS/SASS). I think I like the challenge of inputting logic in stuff. <br>
+I also felt today that sometimes you need to take a step back of your script and take another look at it another day to be able to find the solution. The 3 challenges I had left was some mathematical challenges I struggled on few days ago, and I was able to understand them today a lot faster.<br>
+Also, I think I used some closure concept in today's scripts but still can't grasp the concept clearly so....tomorrow will be more about closure !!!
+
+**Link(s) to work**
+1. [Smallest Common Multiple](https://www.freecodecamp.com/challenges/smallest-common-multiple)
+2. [Summ All Primes](https://www.freecodecamp.com/challenges/sum-all-primes)
+3. [Sum All Odd Fibonacci Numbers](https://www.freecodecamp.com/challenges/sum-all-odd-fibonacci-numbers)
+
