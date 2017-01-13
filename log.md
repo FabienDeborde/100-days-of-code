@@ -65,3 +65,11 @@ Also, I think I used some closure concept in today's scripts but still can't gra
 2. [Summ All Primes](https://www.freecodecamp.com/challenges/sum-all-primes)
 3. [Sum All Odd Fibonacci Numbers](https://www.freecodecamp.com/challenges/sum-all-odd-fibonacci-numbers)
 
+### Day 6: January 13, Friday
+**Today's Progress**: I had to format and reinstall my computer yesterday so I couldn't work on any project...I'll have to work twice as much this weekend!! Today I finally finished the [Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) challenges! 
+
+**Thoughts**: I think I'm finally getting a better understanding about what are closures and how to use them. I've read a lot of different explanation and I like this one : it's a function with preserved data (and also basically it is "just" outer value that are usable inside of a function). I really feel that is a powerful feature of JavaScript and I really need to understand and use it better.
+
+**Link(s) to work**
+1. [Arguments Optional](https://www.freecodecamp.com/challenges/arguments-optional)
+
