@@ -73,3 +73,10 @@ Also, I think I used some closure concept in today's scripts but still can't gra
 **Link(s) to work**
 1. [Arguments Optional](https://www.freecodecamp.com/challenges/arguments-optional)
 
+### Day 7: January 14, Saturday
+**Today's Progress**: Started the [Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) challenges! Working on the RegExp first challenge, almost there but still have 3 errors so I think I need to take a step back and come back to it later. I have learned a lot about Git (specially Git Flow) today and can't wait to use it in my next project. 
+
+**Thoughts**: There is so many things I want/need/feel the urge to learn and understand, that it is really hard sometimes to stay on only one path. Today I stopped my JavaScript training to take a closer look on Git and Git Flow, and also checked some SASS. It felt good to taste some other technologies. Went back to JavaScript a bit later and it felt also good to come back to it.
+
+**Link(s) to work**
+1. Nothing to show today, work is not finished :(
