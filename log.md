@@ -80,3 +80,14 @@ Also, I think I used some closure concept in today's scripts but still can't gra
 
 **Link(s) to work**
 1. Nothing to show today, work is not finished :(
+
+### Day 8: January 15, Sunday
+**Today's Progress**: Did 2 [Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) challenges!
+
+**Thoughts**: I'm glad I finished the first RegExp challenge, I wanted to learn more about RegExp but never took the time.
+
+**Link(s) to work**
+1. [Validate US Telephone Numbers](https://www.freecodecamp.com/challenges/validate-us-telephone-numbers)
+2. [Record Collection](https://www.freecodecamp.com/challenges/record-collection)
+
+
