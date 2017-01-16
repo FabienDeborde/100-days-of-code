@@ -91,3 +91,10 @@ Also, I think I used some closure concept in today's scripts but still can't gra
 2. [Record Collection](https://www.freecodecamp.com/challenges/record-collection)
 
 
+### Day 9: January 16, Monday
+**Today's Progress**: Today I rethought my workflow, tried to optimize my projects folders structure, and tried to transition from Prepros to WebPack. 
+
+**Thoughts**: This rethinking process took me a lot more time than I anticipated. I feel like my workflow is going to be better, but I have a lot of issues with SASS and PUG processing and live reloading with WebPack. I don't know if I should use both while I learn more of WebPack.
+
+**Link(s) to work**
+I'll publish my boilerplate once its ready
