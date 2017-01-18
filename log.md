@@ -98,3 +98,19 @@ Also, I think I used some closure concept in today's scripts but still can't gra
 
 **Link(s) to work**
 I'll publish my boilerplate once its ready
+
+### Day 9: January 16, Tuesday
+**Today's Progress**: Today spent a lot of time trying to figure out more about Webpack and what my project folder structure should be. 
+
+**Thoughts**: Still having a hard time figuring how to use webpack. I'm really wondering if it will help me get more things done.
+
+**Link(s) to work**
+I'll publish my boilerplate once its ready
+
+### Day 11: January 16, Wednesday
+**Today's Progress**: Today I spent again a lot of time on webpack. I got my final final structure (I hope) amd I got SASS and live reload to work, then had PUG working until I realized live reloading was not working anymore. In the end thought i had fixed everything and started working on codeship integration. I found how to config it and had test and deployment settings to discover that my PUG preprocessing was still bugged... More tomorrow....
+
+**Thoughts**: Really really impressed at how Prepros is doing such a great job out of the box when I compare to Webpack. Sure it is probably less powerful and configurable, but it just works when you need preprocessing and live reloading stuff. Webpack seems to be able to everything and anything but serioulsy this is so unwell documentated. I just want to do simple stuff and I can't seem to find the right configuration for it.
+
+**Link(s) to work**
+I'll publish my boilerplate once its ready
