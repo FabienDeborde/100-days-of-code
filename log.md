@@ -122,4 +122,4 @@ I'll publish my boilerplate once its ready
 I think it might be easier to understand Webpack when I start learning React. And maybe when they release the doc for Webpack 2.
 
 **Link(s) to work**
-I'll publish my boilerplate once its ready
+[My Webpack boilerplate](https://github.com/FabienDeborde/Webpack-Starter-Kit)
