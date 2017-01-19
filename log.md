@@ -100,17 +100,26 @@ Also, I think I used some closure concept in today's scripts but still can't gra
 I'll publish my boilerplate once its ready
 
 ### Day 10: January 17, Tuesday
-**Today's Progress**: Today spent a lot of time trying to figure out more about Webpack and what my project folder structure should be. 
+**Today's Progress**: Today I've been working more on Webpack.Finally got hot reloading to work, and SASS process to a main CSS file. Now stuck on preprocessing my index.jade to index.html.
 
-**Thoughts**: Still having a hard time figuring how to use webpack. I'm really wondering if it will help me get more things done.
+**Thoughts**: No idea if I should love or hate webpack. This tool seems so powerful yet so undocumented and all examples I found on the Web are either not working or way too advanced or both...
 
 **Link(s) to work**
 I'll publish my boilerplate once its ready
 
 ### Day 11: January 18, Wednesday
-**Today's Progress**: Today I spent again a lot of time on webpack. I got my final final structure (I hope) amd I got SASS and live reload to work, then had PUG working until I realized live reloading was not working anymore. In the end thought i had fixed everything and started working on codeship integration. I found how to config it and had test and deployment settings to discover that my PUG preprocessing was still bugged... More tomorrow....
+**Today's Progress**: Today I spent again a lot of time on webpack. I got my final final structure (I hope) amd I got SASS and live reload to really work, then had PUG working until I realized live reloading was not working anymore. In the end thought I had fixed everything and started working on codeship integration. I found how to config it and had test and deployment settings to discover that my PUG preprocessing was still bugged... More tomorrow....
 
 **Thoughts**: Really really impressed at how Prepros is doing such a great job out of the box when I compare to Webpack. Sure it is probably less powerful and configurable, but it just works when you need preprocessing and live reloading stuff. Webpack seems to be able to everything and anything but serioulsy this is so unwell documentated. I just want to do simple stuff and I can't seem to find the right configuration for it.
+
+**Link(s) to work**
+I'll publish my boilerplate once its ready
+
+### Day 12: January 19, Thursday
+**Today's Progress**: Finished my boilerplate using Webpack, Jade, SASS and autoprefixer. The live reloading is working-ish (work on all save except Jade includes). I also integrated it with Codeship for continuous integration and deployment. Also I made a repo with the my new starter kit.
+
+**Thoughts**: I'm really glad I could get it to work, but had to revert back for my next production project to Prepros. I really feel the power of Webpack but it is way too hard to configure and had way too much "bug" (probably me not configuring well). All was working until I wanted to add Bootstrap, and then needed also Tether and then everything was just broken. Took me 5 minutes to delete Webpack and NPM and configure Prepros to preprocess and minify my SASS and PUG and also concatenate/minify my main.js and vendors.js... I really want to understand Webpack but around 3 days for a buggy config vs 5 minutes to configure something working out of the box... feels like an easy choice to me.
+I think it might be easier to understand Webpack when I start learning React. And maybe when they release the doc for Webpack 2.
 
 **Link(s) to work**
 I'll publish my boilerplate once its ready
