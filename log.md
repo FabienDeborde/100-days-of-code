@@ -123,3 +123,14 @@ I think it might be easier to understand Webpack when I start learning React. An
 
 **Link(s) to work**
 [My Webpack boilerplate](https://github.com/FabienDeborde/Webpack-Starter-Kit)
+
+### Day 13: January 20, Friday
+**Today's Progress**: Today I finished Node.js and Express.js, Git and MongoDB exercices. I've also set my environment to start API Projects. I also learned a bit more about Nginx and password protection in order to start a new private project.
+
+**Thoughts**: Yesterday I listened to a podcast and heard an advice that seems maybe weird but it was something like "learn a framework, not a language", and I think it is quite the same kind of objective as this challenge. Theory is great but pratical training is the key to success. So I decided to continue my Algorithm Challenges but I'll learn at the same time some MERN stack!! 
+
+**Link(s) to work**
+Nothing to show today
+
+
+
