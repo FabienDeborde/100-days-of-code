@@ -134,3 +134,11 @@ I think it might be easier to understand Webpack when I start learning React. An
 2.[Git](https://www.freecodecamp.com/map#nested-collapseGit)
 3.[MongoDB](https://www.freecodecamp.com/map#nested-collapseMongoDB)
 4.[Get Set for our API Development Projects](https://www.freecodecamp.com/challenges/get-set-for-our-api-development-projects)
+
+### Day 14: January 21, Saturday
+**Today's Progress**: Today I finished *JavaScript: The Good Parts* by *Douglas Crockford*. I also finished the first API project, and am now struggling with Heroku deployment. I also started to learn React on CodeAcademy.
+
+**Thoughts**: 
+
+**Link(s) to work**
+1.[Timestamp Microservice](https://fcc-api-projects-fabiendeborde.c9users.io)
