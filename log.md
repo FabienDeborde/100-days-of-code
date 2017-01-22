@@ -142,3 +142,12 @@ I think it might be easier to understand Webpack when I start learning React. An
 
 **Link(s) to work**
 1.[Timestamp Microservice](https://fcc-api-projects-fabiendeborde.c9users.io)
+
+### Day 15: January 22, Sunday
+**Today's Progress**: Today I found the way to deploy from Cloud9 to Heroku. I had to add a script in my package.json that would run before Heroku run npm start and install Express dependency. Also continued to learn a bit of React on Codeacademy.
+
+**Thoughts**: So many things to learn and so little time is the feeling of the day. It's also getting a bit hard to maintain the habit of keeping a log and tweeting about it.
+
+**Link(s) to work**
+1.[Timestamp Microservice](https://ffc-timestamp-api.herokuapp.com/)
+
