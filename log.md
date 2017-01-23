@@ -151,3 +151,11 @@ I think it might be easier to understand Webpack when I start learning React. An
 **Link(s) to work**
 1.[Timestamp Microservice](https://ffc-timestamp-api.herokuapp.com/)
 
+### Day 16: January 23, Monday
+**Today's Progress**: Today I worked a lot on a private project (Jade/SASS), practiced more on my new workflow and Git Flow. I could also continue my learning of React through CodeAcademy.
+
+**Thoughts**: Feels like I'm working a bit faster but it's still too messy to my taste. I need to be more organized and recognize faster the pattern I could use to less reapeat myself.
+
+**Link(s) to work**
+Nothing to show today!
+
