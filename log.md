@@ -159,3 +159,26 @@ I think it might be easier to understand Webpack when I start learning React. An
 **Link(s) to work**
 Nothing to show today!
 
+### Day 17: January 24, Tuesday
+**Today's Progress**: Worked on a private project all day. Did almost all the Jade/Sass markup and tried a few things with Bootstrap.
+
+**Thoughts**: I'm not a big fan of Bootstrap, I like the cross-browser compatibility (had way less problem with Bootstrap than with just Sass on Safari...) but it's taking so much more Jade markup and it's a bit too restrictive sometimes so I still need to add quite a lot of Sass.
+
+**Link(s) to work**
+
+
+### Day 18: January 25, Wednesday
+**Today's Progress**: Almost finished this side project. Had some issues with iOS browsers (as usual...).
+
+**Thoughts**: I'm quite tired, don't have much thought of today's work beside I still have a long way to learn how to be more efficient.
+
+**Link(s) to work**
+
+
+### Day 19: January 26, Thursday
+**Today's Progress**: Changed my hosting, learned a few things about DNS records, had to change my server config too. Also finished my first release of my side project. It's still in test for now, most of the bugs are fixed. I'm starting to implement i18n.
+
+**Thoughts**: I need to be more organized when it comes to testing. Also can't wait to be able to use React for production project, seems it's a lot easier for i18n.
+
+**Link(s) to work**
+
