@@ -182,3 +182,17 @@ Nothing to show today!
 
 **Link(s) to work**
 
+### Day 20: January 27, Friday
+**Today's Progress**: Spent most of the day trying to solve DNS issues. I found some time to continue working on my project and finish the i18n implementation. Still need a lot of testing.
+
+**Thoughts**: I really can't wait to solve this DNS issues to be able to concentrate more on developement and front end!!
+
+**Link(s) to work**
+
+### Day 21: January 28, Saturday
+**Today's Progress**: Finished adding English and Japanese to my project! Have also done some tests and found a way to switch fonts depending on the language.
+
+**Thoughts**: This DNS problems are still there but I'm glad I could concentrate a bit more today on front end. I really want to get this over to try to find a new way to implement i18n and SEO measures.
+
+**Link(s) to work**
+
