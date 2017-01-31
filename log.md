@@ -196,3 +196,16 @@ Nothing to show today!
 
 **Link(s) to work**
 
+### Day 22: January 29, Sunday
+**Today's Progress**: Added French support today. Also been fixing some minor UI bugs around menus and i18n.
+
+**Thoughts**: Really long day working on the French version. I'm glad I could find some time to fix issues in my js files.
+
+**Link(s) to work**
+
+### Day 23: January 30, Monday
+**Today's Progress**: Finished the 1st official version of my project. Did a lot of testing and bug fixing (specially for Safari/Mac related versions). Now trying to get it online as DNS problems are still there...
+
+**Thoughts**: I really wonder if it was a good idea to leave DigitalOcean to a managed hosting...It's taking them forever to fix issues.
+
+**Link(s) to work**
