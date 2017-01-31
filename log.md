@@ -209,3 +209,10 @@ Nothing to show today!
 **Thoughts**: I really wonder if it was a good idea to leave DigitalOcean to a managed hosting...It's taking them forever to fix issues.
 
 **Link(s) to work**
+
+### Day 24: January 31, Tuesday
+**Today's Progress**: Long day of debugging, testing on windows, linux, mac, tablet, mobile etc... Almost done with the technical stuff, next is the content. Also the DNS problem is finally fixed, and I could config the server the way I wanted.
+
+**Thoughts**: Using a lot different services for my freelancing, but today I got the feeling I could make some of these services inhouse.
+
+**Link(s) to work**
