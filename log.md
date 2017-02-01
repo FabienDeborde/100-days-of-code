@@ -216,3 +216,11 @@ Nothing to show today!
 **Thoughts**: Using a lot different services for my freelancing, but today I got the feeling I could make some of these services inhouse.
 
 **Link(s) to work**
+
+### Day 25: February, Wednesday
+**Today's Progress**: Today was another testing/debugging day. Also learned a lot about SEO, Open Graph, Twitter Card, JSON-LD and Microdata...Took me some time get how all of this works.
+
+**Thoughts**: I really didn't think SEO was so full of settings and different files, and even language. I'll have to take another look at schema.org...
+
+**Link(s) to work**
+Almost ready to publish
