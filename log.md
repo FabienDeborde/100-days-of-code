@@ -232,3 +232,10 @@ Almost ready to publish
 
 **Link(s) to work**
 
+### Day 27: February 03, Friday
+**Today's Progress**: Did some i18n testing then set up a new server to test my new projects. I've been stuck with email security for a few hours but should be working now.
+
+**Thoughts**: I'm really not a huge fan of email setup on servers. Too many configurations and so many tests to do. Can't wait to go back to some JavaScript!
+
+**Link(s) to work**
+
