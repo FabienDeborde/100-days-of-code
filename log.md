@@ -217,10 +217,18 @@ Nothing to show today!
 
 **Link(s) to work**
 
-### Day 25: February, Wednesday
+### Day 25: February 01, Wednesday
 **Today's Progress**: Today was another testing/debugging day. Also learned a lot about SEO, Open Graph, Twitter Card, JSON-LD and Microdata...Took me some time get how all of this works.
 
 **Thoughts**: I really didn't think SEO was so full of settings and different files, and even language. I'll have to take another look at schema.org...
 
 **Link(s) to work**
 Almost ready to publish
+
+### Day 26: February 02, Thursday
+**Today's Progress**: Finished a lot of SEO testing today. Also went back to some i18n testing as I saw some mistakes.
+
+**Thoughts**: Really want to finish this so I can go back to more javascript studies (really want to start using React!)
+
+**Link(s) to work**
+
