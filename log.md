@@ -239,3 +239,10 @@ Almost ready to publish
 
 **Link(s) to work**
 
+### Day 28: February 04, Saturday
+**Today's Progress**: Today I've created a new droplet and set it to serve 2 new domains. Did a lot of configuration to improve security and the server can send notification without being classified as spam.
+
+**Thoughts**: Really love how simple it is to run a server on DigitalOcean! Linux is really a fun environment to work in, but it's so deep that I wonder if I'll ever be able to fully use it.
+
+**Link(s) to work**
+
