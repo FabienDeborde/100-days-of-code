@@ -246,3 +246,9 @@ Almost ready to publish
 
 **Link(s) to work**
 
+### Day 29: February 05, Sunday
+**Today's Progress**: Added more stuff to the server. Now go to some info about CPU and Mem usage. Also working on a backup automated process.
+
+**Thoughts**: Having some difficulties with Linux and also the server perf. I think I'll have to up it a bit.
+
+**Link(s) to work**
