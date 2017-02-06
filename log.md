@@ -252,3 +252,10 @@ Almost ready to publish
 **Thoughts**: Having some difficulties with Linux and also the server perf. I think I'll have to up it a bit.
 
 **Link(s) to work**
+
+### Day 29: February 05, Sunday
+**Today's Progress**: Spent another day in Linuxland. Now got a backup system, more security and also Ghost is running! I learned a lot about rsync tar and crontab today!
+
+**Thoughts**: Finally done with the server config! Now to the CMS!!
+
+**Link(s) to work**
