@@ -253,9 +253,30 @@ Almost ready to publish
 
 **Link(s) to work**
 
-### Day 29: February 05, Sunday
-**Today's Progress**: Spent another day in Linuxland. Now got a backup system, more security and also Ghost is running! I learned a lot about rsync tar and crontab today!
+### Day 30: February 06, Monday
+**Today's Progress**: Finished the server config! Also installed Ghost.
 
-**Thoughts**: Finally done with the server config! Now to the CMS!!
+**Thoughts**: Spend a lot of time once again on server config. I'll really have to learn more about linux and server administration.
+
+**Link(s) to work**
+
+### Day 31: February 07, Tuesday
+**Today's Progress**: Started to configure Ghost website. Also learned and practiced a bit more nodejs and express.
+
+**Thoughts**: Ghost is a really nice CMS to work with. It's way faster than WordPress but also more limited for now as there is no plugin yet. I really liked the backend learning today.
+
+**Link(s) to work**
+
+### Day 32: February 08, Wednesday
+**Today's Progress**: More learning and practicing with nodejs and express today.
+
+**Thoughts**: I still got a long way to go but I feel like I'm progressing. Now that I have to basis on node I'll move to React.
+
+**Link(s) to work**
+
+### Day 33: February 09, Thursday
+**Today's Progress**: Today started working on React. I've got some project ideas that I want to try using React.
+
+**Thoughts**: Having a hard time concentrate since yesterday. I really hate winter cold...
 
 **Link(s) to work**
