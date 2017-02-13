@@ -280,3 +280,10 @@ Almost ready to publish
 **Thoughts**: Having a hard time concentrate since yesterday. I really hate winter cold...
 
 **Link(s) to work**
+
+### Day 34: February 13, Monday
+**Today's Progress**: Back after a weekend trip! Today I learned more about React and finished a quick demo. I'll up it soon when I finish the design.
+
+**Thoughts**: Really like the thinking process of React and its modularity. Can't wait to be more efficient with it!
+
+**Link(s) to work**
