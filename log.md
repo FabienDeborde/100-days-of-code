@@ -287,3 +287,10 @@ Almost ready to publish
 **Thoughts**: Really like the thinking process of React and its modularity. Can't wait to be more efficient with it!
 
 **Link(s) to work**
+
+### Day 35: February 14, Tuesday
+**Today's Progress**: More work on React! Also just started learning about Redux.
+
+**Thoughts**: Just read about Redux and am not sure what it is all about. I'm a bit confused about the React "state" and the Redux "state" meanings...
+
+**Link(s) to work**
