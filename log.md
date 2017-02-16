@@ -294,3 +294,11 @@ Almost ready to publish
 **Thoughts**: Just read about Redux and am not sure what it is all about. I'm a bit confused about the React "state" and the Redux "state" meanings...
 
 **Link(s) to work**
+
+
+### Day 36: February 15, Wednesday
+**Today's Progress**: Continued the work on redux.
+
+**Thoughts**: Still confused about redux "state" and react "state" but I feel like redux is just a link between data and react. 
+
+**Link(s) to work**
