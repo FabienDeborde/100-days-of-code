@@ -302,3 +302,10 @@ Almost ready to publish
 **Thoughts**: Still confused about redux "state" and react "state" but I feel like redux is just a link between data and react. 
 
 **Link(s) to work**
+
+### Day 37: February 18, Saturday
+**Today's Progress**: Today I went back to some React basis, I really need to grasp the core concepts.
+
+**Thoughts**: Back after 2 days without Internet (seems the building optic fiber was cut or something...). I read a bit about React but couldn't practice cause...no cdn, no npm and no react on the hard drive. Glad Internet is finally back!
+
+**Link(s) to work**
