@@ -309,3 +309,10 @@ Almost ready to publish
 **Thoughts**: Back after 2 days without Internet (seems the building optic fiber was cut or something...). I read a bit about React but couldn't practice cause...no cdn, no npm and no react on the hard drive. Glad Internet is finally back!
 
 **Link(s) to work**
+
+### Day 38: February 22, Wednesday
+**Today's Progress**: Today worked on Meteor basics.
+
+**Thoughts**: Just discovered about Meteor and find it very useful to start quickly a Node project. Can't wait to use Meteor with React!
+
+**Link(s) to work**
