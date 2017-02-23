@@ -316,3 +316,10 @@ Almost ready to publish
 **Thoughts**: Just discovered about Meteor and find it very useful to start quickly a Node project. Can't wait to use Meteor with React!
 
 **Link(s) to work**
+
+### Day 39: February 23, Thursday
+**Today's Progress**: More work on Meteor with React. Almost ready to start a new project!
+
+**Thoughts**: Really loved working with Meteor + React today! It feels really intuitive and find it way easier to grasp than react + redux for now. I could use a bit of Mongo too so I'm really happy!
+
+**Link(s) to work**
