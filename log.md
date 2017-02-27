@@ -323,3 +323,11 @@ Almost ready to publish
 **Thoughts**: Really loved working with Meteor + React today! It feels really intuitive and find it way easier to grasp than react + redux for now. I could use a bit of Mongo too so I'm really happy!
 
 **Link(s) to work**
+
+### Day 40: February 27, Monday
+**Today's Progress**: Worked on my new project structure and started preparing my server for deployment. Got stuck on MUP config...
+
+**Thoughts**: Thought deployment with Meteor who be easier and quicker but can't find any up to date good guide to config MUP. I'll have to spend more time on this tomorrow.
+
+**Link(s) to work**
+
