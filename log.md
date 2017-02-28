@@ -331,3 +331,9 @@ Almost ready to publish
 
 **Link(s) to work**
 
+### Day 41: February 28, Tuesday
+**Today's Progress**: Still working on Meteor deployment configuration. Almost done with the server preparation, now need to decide which way I go about this issue.
+
+**Thoughts**: I had no idea how hard it would be to deploy a Meteor App... The local setup was so easy I didn't think about the deployment...
+
+**Link(s) to work**
