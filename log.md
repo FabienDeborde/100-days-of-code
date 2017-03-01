@@ -337,3 +337,10 @@ Almost ready to publish
 **Thoughts**: I had no idea how hard it would be to deploy a Meteor App... The local setup was so easy I didn't think about the deployment...
 
 **Link(s) to work**
+
+### Day 41: March 1, Wednesday
+**Today's Progress**: Tons of work on my server and project config for deployment, learned basic stuff about Docker. Also went back to the app and worked on the login page. Also worked on external mongodb stuff.
+
+**Thoughts**: What started like the dream full stack turned into somewhat of a nightmare. Starting the app was easy but after that I had to face so many issues... Deployment: not supported anymore for free, some other packages exist but lots of configuration needed. Wanted to work with SASS: can't use SASS indentation anymore (had to go back to using Prepros). Use React: some configuration needed because Blaze... Hope I'll be able to do some programming tomorrow!
+
+**Link(s) to work**
