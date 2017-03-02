@@ -338,9 +338,16 @@ Almost ready to publish
 
 **Link(s) to work**
 
-### Day 41: March 1, Wednesday
+### Day 42: March 1, Wednesday
 **Today's Progress**: Tons of work on my server and project config for deployment, learned basic stuff about Docker. Also went back to the app and worked on the login page. Also worked on external mongodb stuff.
 
 **Thoughts**: What started like the dream full stack turned into somewhat of a nightmare. Starting the app was easy but after that I had to face so many issues... Deployment: not supported anymore for free, some other packages exist but lots of configuration needed. Wanted to work with SASS: can't use SASS indentation anymore (had to go back to using Prepros). Use React: some configuration needed because Blaze... Hope I'll be able to do some programming tomorrow!
+
+**Link(s) to work**
+
+### Day 43: March 2, Thursday
+**Today's Progress**: More work on my Meteor-React App, discovered routes.js and started working on the login page.
+
+**Thoughts**: Had to step some steps back, I really felt overwhelmed by the quantity of technology I had to absord (Meteor, React, Mongodb, Docker, Codeship and server config at the same time is not good for my health ^^).
 
 **Link(s) to work**
