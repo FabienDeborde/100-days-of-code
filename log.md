@@ -351,3 +351,10 @@ Almost ready to publish
 **Thoughts**: Had to step some steps back, I really felt overwhelmed by the quantity of technology I had to absord (Meteor, React, Mongodb, Docker, Codeship and server config at the same time is not good for my health ^^).
 
 **Link(s) to work**
+
+### Day 44: March 3, Friday
+**Today's Progress**: Still working with Meteor-React, trying different approaches and new packages to get this right.
+
+**Thoughts**: I feel like there are already so much packages and "best practices" out there. It's a bit overwhelming but I'm starting to get how this is working...i think.
+
+**Link(s) to work**
