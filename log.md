@@ -358,3 +358,31 @@ Almost ready to publish
 **Thoughts**: I feel like there are already so much packages and "best practices" out there. It's a bit overwhelming but I'm starting to get how this is working...i think.
 
 **Link(s) to work**
+
+### Day 45: March 4, Saturday
+**Today's Progress**: Found a great source of info about Meteor-React, working on basics again to be sure I get this right.
+
+**Thoughts**: Really like how the official doc and this series of tutos are linked and how it's easy to grasp the core concept!
+
+**Link(s) to work**
+
+### Day 46: March 5, Sunday  
+**Today's Progress**: Started an intermediate level tutorial on Meteor-React. Learning how to use more advanced React techniques.
+
+**Thoughts**: Still in love with Meteor-React, today discovered how easy it is to port a web app to an android app!
+
+**Link(s) to work**
+
+### Day 47: March 6, Monday
+**Today's Progress**: Almost done with this intermediate level project. Learned a lot about Roles, Routes and how to secure the app.
+
+**Thoughts**: Was a bit tired today so I was not at my full receptivity level. Roles and Routes seems to be a really important comcept and I'm not sure I'm able to use it well right now but will definitely pay attention to how to use them properly!
+
+**Link(s) to work**
+
+### Day 48: March 7, Tuesday
+**Today's Progress**: Finished this intermediate project! Starting to work on the next one.
+
+**Thoughts**: Done with this one! But still got a lot to learn! I might try to refactor old project using this Meteor-React stack.
+
+**Link(s) to work**
