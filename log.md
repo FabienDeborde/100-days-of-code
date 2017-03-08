@@ -386,3 +386,11 @@ Almost ready to publish
 **Thoughts**: Done with this one! But still got a lot to learn! I might try to refactor old project using this Meteor-React stack.
 
 **Link(s) to work**
+
+
+### Day 49: March 8, Wednseday
+**Today's Progress**: Finally starting my own project using Meteor - React! Working on the routing now.
+
+**Thoughts**: I get the basic routing stuff but don't get how to pass props and how to get infos from the Meteor.users method.
+
+**Link(s) to work**
