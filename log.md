@@ -394,3 +394,17 @@ Almost ready to publish
 **Thoughts**: I get the basic routing stuff but don't get how to pass props and how to get infos from the Meteor.users method.
 
 **Link(s) to work**
+
+### Day 50: March 9, Thursday
+**Today's Progress**: Worked on the project structure, having some problems with the packages choices and also routing.
+
+**Thoughts**: Spent too much time trying to import the css framework and also to decide the folder structure.
+
+**Link(s) to work**
+
+### Day 51: March 10, Wednseday
+**Today's Progress**: Finally made some progress, got my login/registration components ready and routing working!
+
+**Thoughts**: Took me a while to get how to import bootstrap the right way. I really wonder if the way I'm using the css is the good way...
+
+**Link(s) to work**
