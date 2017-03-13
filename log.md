@@ -402,9 +402,25 @@ Almost ready to publish
 
 **Link(s) to work**
 
-### Day 51: March 10, Wednseday
+### Day 51: March 10, Friday
 **Today's Progress**: Finally made some progress, got my login/registration components ready and routing working!
 
 **Thoughts**: Took me a while to get how to import bootstrap the right way. I really wonder if the way I'm using the css is the good way...
+
+**Link(s) to work**
+
+
+### Day 52: March 11, Saturday
+**Today's Progress**: Had to rework on my login system...Still can't figure what is going wrong.
+
+**Thoughts**: I still need to read a lot of documentation and I'm not really sure about best practices.
+
+**Link(s) to work**
+
+
+### Day 53: March 12, Sunday
+**Today's Progress**: The login is working, and refreshing the components on login/logout!
+
+**Thoughts**: It's weird as I feel like Meteor is a really good stack I don't find so much tutorials about is.
 
 **Link(s) to work**
