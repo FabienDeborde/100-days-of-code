@@ -424,3 +424,10 @@ Almost ready to publish
 **Thoughts**: It's weird as I feel like Meteor is a really good stack I don't find so much tutorials about is.
 
 **Link(s) to work**
+
+### Day 54: March 13, Monday
+**Today's Progress**: 
+
+**Thoughts**: Today I finsihed the top navigation routing and added functions on login/logout. Also reviewed the project folder structure and did some wireframing for the next components.
+
+**Link(s) to work**: Starting to feel less pain and more fun using Meteor with React!! Also saw some stuff about Apollo and have to admit I'd like to give it a try!
