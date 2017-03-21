@@ -426,8 +426,15 @@ Almost ready to publish
 **Link(s) to work**
 
 ### Day 54: March 13, Monday
-**Today's Progress**: 
+**Today's Progress**: Today I finsihed the top navigation routing and added functions on login/logout. Also reviewed the project folder structure and did some wireframing for the next components.
 
-**Thoughts**: Today I finsihed the top navigation routing and added functions on login/logout. Also reviewed the project folder structure and did some wireframing for the next components.
+**Thoughts**: Starting to feel less pain and more fun using Meteor with React!! Also saw some stuff about Apollo and have to admit I'd like to give it a try!
 
-**Link(s) to work**: Starting to feel less pain and more fun using Meteor with React!! Also saw some stuff about Apollo and have to admit I'd like to give it a try!
+**Link(s) to work**: 
+
+### Day 55: March 21, Tuesday
+**Today's Progress**: After a week of absence and a day of prototyping I'm finally back to coding! Played with Meteor-React as usual and did some CSS and worked on shaped divs. Also did a bit of research around Netdata and its API.
+
+**Thoughts**: So so glad I can finally code again. Last week was a nightmare of business and planning, but now I should be able to focus on training more.
+
+**Link(s) to work**: 
