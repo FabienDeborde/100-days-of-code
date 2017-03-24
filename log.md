@@ -438,3 +438,27 @@ Almost ready to publish
 **Thoughts**: So so glad I can finally code again. Last week was a nightmare of business and planning, but now I should be able to focus on training more.
 
 **Link(s) to work**: 
+
+
+### Day 56: March 22, Wednesday
+**Today's Progress**: Spend some time working on a new component for my Meteor React app.
+
+**Thoughts**: The project is getting bigger and I wonder if I'm using the "best practice" or not. Getting more and more files, folders etc...
+
+**Link(s) to work**: 
+
+
+### Day 57: March 23, Thursday
+**Today's Progress**: Finished the design of my component and its markup.
+
+**Thoughts**: Definitely wondering if I'm doing this the right way. Specially how to style my components. I made a style folder with my sass being preprocessed by prepros since Meteor can't do it and it doesn't feel right...
+
+**Link(s) to work**: 
+
+
+### Day 58: March 24, Friday
+**Today's Progress**: Going back to some basic React learning to better understand some fundamental concepts.
+
+**Thoughts**: Felt overwhelmed by the learning of Meteor/MongoDB/React all at the same time so going back to the roots of React and gonna make some small projects to better understand it.
+
+**Link(s) to work**: 
