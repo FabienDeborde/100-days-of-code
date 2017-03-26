@@ -462,3 +462,17 @@ Almost ready to publish
 **Thoughts**: Felt overwhelmed by the learning of Meteor/MongoDB/React all at the same time so going back to the roots of React and gonna make some small projects to better understand it.
 
 **Link(s) to work**: 
+
+### Day 59: March 25, Saturday
+**Today's Progress**: Re-learned some basic React stuff. Made a youtube viewer app, and reviewed class component and dumb component usage.
+
+**Thoughts**: Feeling that React is less and less magical and more and more logical. It might be the start of a better understanding of this technology.
+
+**Link(s) to work**: 
+
+### Day 60: March 26, Sunday
+**Today's Progress**: Finished one React tutorial and started another one. 
+
+**Thoughts**: Feeling a bit more familiar with React. I see so many possible application for it!
+
+**Link(s) to work**: 
