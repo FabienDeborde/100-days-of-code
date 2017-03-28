@@ -476,3 +476,17 @@ Almost ready to publish
 **Thoughts**: Feeling a bit more familiar with React. I see so many possible application for it!
 
 **Link(s) to work**: 
+
+### Day 61: March 27, Monday
+**Today's Progress**: Started a new project, more front end oriented. Started the basic project structure and grid.
+
+**Thoughts**: It's been a while working with just Pug, Sass and jQuery. It is somehow refreshing.
+
+**Link(s) to work**: 
+
+### Day 62: March 28, Tuesday
+**Today's Progress**: Still working on this new project. Did most of the hard parts with responsive nav and slider.
+
+**Thoughts**: I forgot how sometimes Bootstrap can be a pain when you want something a bit original...
+
+**Link(s) to work**: 
