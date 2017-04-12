@@ -490,3 +490,11 @@ Almost ready to publish
 **Thoughts**: I forgot how sometimes Bootstrap can be a pain when you want something a bit original...
 
 **Link(s) to work**: 
+
+### Day 63: April 12, Wednesday
+**Today's Progress**: Finally back to my project. Worked with React most of the day and discovered ReactGridLayout which was really enjoyable to work with!
+
+**Thoughts**: Was a bit worried about my capacity to remember how to use React and today went surprisingly well. Had some problem with meteor though (some updates messed the project I think).
+
+**Link(s) to work**: 
+
