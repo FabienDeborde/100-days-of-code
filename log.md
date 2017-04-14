@@ -498,3 +498,9 @@ Almost ready to publish
 
 **Link(s) to work**: 
 
+### Day 64: April 13, Thursday
+**Today's Progress**: Tried to import my React work into my Meteor project and discovered some issues. Might be coming from some Meteor updates. 
+
+**Thoughts**: It's been so long that I probably need to clean my Meteor project a bit. Before that I'll do some only React stuff so I won't forget the React way of doing things.
+
+**Link(s) to work**: 
