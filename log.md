@@ -504,3 +504,26 @@ Almost ready to publish
 **Thoughts**: It's been so long that I probably need to clean my Meteor project a bit. Before that I'll do some only React stuff so I won't forget the React way of doing things.
 
 **Link(s) to work**: 
+
+### Day 65: April 14, Friday
+**Today's Progress**: After some work with ReactGridLayout I started learning how ReactDnD works. 
+
+**Thoughts**: ReactGridLayout was really fine, but found it a bit laggy, specially with an svg handler.
+
+**Link(s) to work**: 
+
+
+### Day 66: April 17, Monday
+**Today's Progress**: Working on the tutorial of ReactDnD to get the basics before applying it to my project.
+
+**Thoughts**: It seems way more powerful than the other grid package but also a lot more difficult to use, I really hope everything is gonna make sense soon.
+
+**Link(s) to work**: 
+
+
+### Day 67: April 18, Tuesday
+**Today's Progress**: Another day on ReactDnD, making some progress. 
+
+**Thoughts**: Can't wait to adapt it to my project!
+
+**Link(s) to work**: 
