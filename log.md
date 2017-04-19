@@ -527,3 +527,10 @@ Almost ready to publish
 **Thoughts**: Can't wait to adapt it to my project!
 
 **Link(s) to work**: 
+
+### Day 68: April 19, Wednesday
+**Today's Progress**: Spent a lot of time working with ReactDnD. Finished the chess tutorial and made a simple draggable list example too.
+
+**Thoughts**: ReactDnD is so powerful and so complex I think I'm gonna go back to ReactGridLayout for a simpler approach. The concepts of ReactDnD are really interesting but I feel totally lost, and not sure at all of what I'm doing.
+
+**Link(s) to work**: 
