@@ -534,3 +534,10 @@ Almost ready to publish
 **Thoughts**: ReactDnD is so powerful and so complex I think I'm gonna go back to ReactGridLayout for a simpler approach. The concepts of ReactDnD are really interesting but I feel totally lost, and not sure at all of what I'm doing.
 
 **Link(s) to work**: 
+
+### Day 69: April 20, Thursday
+**Today's Progress**: Today, no React, a bit of js and a lot of pug/sass! Made a simple portefolio website.
+
+**Thoughts**: Needed some fresh air today, too much difficult concepts in React recently... Felt good to use some basic pug/sass and play with some animations.
+
+**Link(s) to work**: 
