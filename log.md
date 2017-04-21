@@ -541,3 +541,11 @@ Almost ready to publish
 **Thoughts**: Needed some fresh air today, too much difficult concepts in React recently... Felt good to use some basic pug/sass and play with some animations.
 
 **Link(s) to work**: 
+
+### Day 70: April 21, Friday
+**Today's Progress**: Today worked on my workflow, had to do some server maintenance and prepared a new deployment system for a blog I'll try to make.
+
+**Thoughts**: It's been a while doing some Dev Ops stuff and it made me think a lot about how time consuming it is when you're not a specialist... I really like learning new things but I'm not sure learning everything right now is really useful. I might go for Meteor Galaxy hosting system for my next app so I don't have to deal with anymore droplet on digital ocean.
+
+**Link(s) to work**: 
+
